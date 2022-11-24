@@ -1,2 +1,2 @@
-# clamor-primer
-Clamor tech articles
+# Clamor primer
+
